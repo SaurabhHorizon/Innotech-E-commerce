@@ -1,2 +1,2 @@
 # Innotech-E-commerce
-Collaborative project with Tanisha and Apporva
+Collaborative project with Tanisha and Apoorva
